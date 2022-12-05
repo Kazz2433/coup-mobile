@@ -5,7 +5,7 @@ import { useNavigation } from '@react-navigation/native';
 import { ButtonIcon } from './ButtonIcon';
 
 interface Props {
-  title: string;
+  title: String;
   showBackButton?: boolean;
   showShareButton?: boolean;
 }
